@@ -1,0 +1,11 @@
+{
+  "version": "7.2.1",
+  "release_date": "27/09/2023",
+  "required_manual_update": false,
+  "min": "6.9.0",
+  "migrations": [
+
+  ],
+  "url": "https://spondonit.com/contact",
+  "notes": "This is a bug fixing update."
+}
